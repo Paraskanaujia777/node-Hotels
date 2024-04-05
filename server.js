@@ -78,7 +78,7 @@ app.get('/hotels', async (req,res)=>{
    }
 })
 
-
+// making local host 
 
 app.listen(3000, () => {
     console.log('listening on port 3000')
